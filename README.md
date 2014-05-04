@@ -8,7 +8,7 @@ Anggota
 <table>
 <td>Nama</td>
 <td>NPM</td>
-=============
+
 <tr>
 <td>Andryan Sitata</td>      <td>117006105</td>
 </tr>
